@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rafael Sales 👽
+### Olá! 👽
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-sales-br&layout=compact)](https://github.com/rafael-sales-br/github-readme-stats)
